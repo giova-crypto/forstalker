@@ -1,7 +1,7 @@
 <?php
 error_reporting(0);
 $nombre = "El acosador";
-$mail = "WhiteHatHacker";
+$mail = "66547381+giova-crypto@users.noreply.github.com";
 
 $header = 'From: ' . $mail ."\r\n";
 $header .= "X-Mailer: PHP/" . phpversion() . " \r\n";
